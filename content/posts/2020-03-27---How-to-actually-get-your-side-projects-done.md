@@ -57,7 +57,7 @@ I’ve gone through countless tutorials on stuff that I’ve never actually appl
 I fell into these deadly traps over and over again and they killed my side projects. With this blog, I hope to break the cycle. Here’s how I’m tackling the three traps above.
 
 ### 1. The project scope
-When Tim Ferriss started his podcast he did it as an experiment. He decided to only dedicate his time to doing six podcast episodes and then after that, he would decide if he would continue doing it or not. With this blog I’m going to something similar, if I hate doing it and I believe it isn’t going anywhere, I’m going to stop writing for this blog after three months of writing one blog post per week. After reading the 12-week year I now define my goals at the beginning of every quarter. My goal for this quarter was to just get this blog started. I defined my goal for this quarter like this:
+When Tim Ferriss started his podcast he did it as an experiment. He decided to only dedicate his time to doing six podcast episodes and then after that, he would decide if he would continue doing it or not. With this blog I’m going to something similar, if I hate doing it and I believe it isn’t going anywhere, I’m going to stop writing for this blog after three months of writing one blog post per week. After reading the <a href="https://amzn.to/3aDCJwD" target="_blank">12-week year</a> I now define my goals at the beginning of every quarter. My goal for this quarter was to just get this blog started. I defined my goal for this quarter like this:
 - Choose a domain name
 - Choose a Gatsy theme
 - Edit it a bit to fit what I want
