@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
   title: 'Richie Kastl',
-  subtitle: 'A dump of my brain',
+  subtitle: 'Blog posts for past Richie and everyone else who can benefit',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -15,19 +15,11 @@ module.exports = {
       label: 'Articles',
       path: '/'
     },
-    {
-      label: 'About me',
-      path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
-    }
   ],
   author: {
     name: 'Richie Kastl',
     photo: '',
-    bio: 'Web developer. Real estate investor. Runner. Lover. Knight. Friend.',
+    bio: '',
     contacts: {
       email: '',
       facebook: '',

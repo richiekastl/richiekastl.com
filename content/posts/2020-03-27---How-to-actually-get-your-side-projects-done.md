@@ -1,6 +1,6 @@
 ---
 title: 4 Deadly Traps That Have Killed My Side Projects That You Can Avoid (Or How to Actually Get Your Side Projects Done)
-date: "2020-3-9"
+date: "2020-3-27"
 template: "post"
 draft: false
 slug: "how-to-actually-get-your-side-projects-done"
@@ -11,8 +11,6 @@ tags:
 description: "In this post I'll describe the 4 deadly traps that have killed my side projects so that you don't have the suffer from the same fate."
 socialImage: ""
 ---
-
-# 4 Deadly Traps That Have Killed My Side Projects That You Can Avoid (Or How to Actually Get Your Side Projects Done)
 
 In the past, I’ve been notorious for declaring that I’ll do a side project and never actually following through with it.
 
