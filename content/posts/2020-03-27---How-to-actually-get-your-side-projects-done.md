@@ -98,6 +98,6 @@ I don’t have any experience creating a blog or even writing outside of the ass
   
 The only materials I’ll permit myself to learn from are materials that I can apply immediately to my blog.
 
-## Conculsion
+## Conclusion
 
 And that’s how I’m going to make this side project a success despite my long list of failed side projects in the past. If you like this material and you feel that it helped you please share it with someone who you think would benefit from it and also subscribe to the email list. I’ll send out an email every week when I release a new blog post and I’ll also have links to other resources that I enjoyed and I hope you'll enjoy them too.
