@@ -1,6 +1,6 @@
 ---
 title: 4 Deadly Traps That Have Killed My Side Hustles That You Can Avoid (Or How to Actually Get Your Side Hustles Done)
-date: "2020-3-27"
+date: "2020-3-11"
 template: "post"
 draft: false
 slug: "how-to-actually-get-your-side-projects-done"
