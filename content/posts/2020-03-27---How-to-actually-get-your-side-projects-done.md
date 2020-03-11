@@ -1,18 +1,18 @@
 ---
-title: 4 Deadly Traps That Have Killed My Side Projects That You Can Avoid (Or How to Actually Get Your Side Projects Done)
+title: 4 Deadly Traps That Have Killed My Side Hustles That You Can Avoid (Or How to Actually Get Your Side Hustles Done)
 date: "2020-3-27"
 template: "post"
 draft: false
 slug: "how-to-actually-get-your-side-projects-done"
 category: "Productivity"
 tags:
-  - "Side Projects"
+  - "side hustles"
   - "Web Development"
-description: "In this post I'll describe the 4 deadly traps that have killed my side projects so that you don't have the suffer from the same fate."
+description: "In this post I'll describe the 4 deadly traps that have killed my side hustles so that you don't have the suffer from the same fate."
 socialImage: ""
 ---
 
-In the past, I’ve been notorious for declaring that I’ll do a side project and never actually following through with it.
+In the past, I’ve been notorious for declaring that I’ll do a side hustle and never actually following through with it.
 
 Examples include: 
 - A shirt company that would combat bullying 
@@ -54,7 +54,7 @@ I’ve gone through countless tutorials on stuff that I’ve never actually appl
 
 ## How I'm avoiding these traps
 
-I fell into these deadly traps over and over again and they killed my side projects. With this blog, I hope to break the cycle. Here’s how I’m tackling the three traps above.
+I fell into these deadly traps over and over again and they killed my side hustles. With this blog, I hope to break the cycle. Here’s how I’m tackling the three traps above.
 
 ### 1. The project scope
 When Tim Ferriss started his podcast he did it as an experiment. He decided to only dedicate his time to doing six podcast episodes and then after that, he would decide if he would continue doing it or not. With this blog I’m going to something similar, if I hate doing it and I believe it isn’t going anywhere, I’m going to stop writing for this blog after three months of writing one blog post per week. After reading the <a href="https://amzn.to/3aDCJwD" target="_blank">12-week year</a> I now define my goals at the beginning of every quarter. My goal for this quarter was to just get this blog started. I defined my goal for this quarter like this:
@@ -73,7 +73,7 @@ The overall goal for this project would be to help as many web developers as I c
 
 ### 2. The phases for this project.
 
-The phases for this side project are:
+The phases for this side hustle are:
 1. Create the site
 2. Start writing blog posts to build an audience
 3. Define the brand for this site is and what the overall theme is
@@ -100,4 +100,4 @@ The only materials I’ll permit myself to learn from are materials that I can a
 
 ## Conclusion
 
-And that’s how I’m going to make this side project a success despite my long list of failed side projects in the past. If you like this material and you feel that it helped you please share it with someone who you think would benefit from it and also subscribe to the email list. I’ll send out an email every week when I release a new blog post and I’ll also have links to other resources that I enjoyed and I hope you'll enjoy them too.
+And that’s how I’m going to make this side hustle a success despite my long list of failed side hustles in the past. If you like this material and you feel that it helped you please share it with someone who you think would benefit from it and also subscribe to the email list. I’ll send out an email every week when I release a new blog post and I’ll also have links to other resources that I enjoyed and I hope you'll enjoy them too.
