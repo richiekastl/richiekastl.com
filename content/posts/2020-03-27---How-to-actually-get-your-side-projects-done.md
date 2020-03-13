@@ -8,7 +8,7 @@ category: "Productivity"
 tags:
   - "side hustles"
   - "Web Development"
-description: "In this post I'll describe the 4 deadly traps that have killed my side hustles so that you don't have the suffer from the same fate."
+description: "In this post I'll describe the 4 deadly traps that have killed my side hustles."
 socialImage: ""
 ---
 
