@@ -12,7 +12,7 @@ const CategoriesListTemplate = () => {
   const categories = useCategoriesList();
 
   return (
-    <Layout title={`Categories - ${title}`} description={subtitle}>
+    <Layout title={`Categories - ${title}`} description="Category Listing">
       <Sidebar />
       <Page title="Categories">
         <ul>
