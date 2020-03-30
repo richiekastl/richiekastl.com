@@ -1,6 +1,6 @@
 ---
 title: 4 Deadly Traps That Have Killed My Side Hustles That You Can Avoid
-date: "2020-3-11"
+date: "2020-3-29"
 template: "post"
 draft: false
 slug: "4-deadly-traps-that-have-killed-my-side-hustles-that-you-can-avoid"
@@ -57,7 +57,9 @@ I’ve gone through countless tutorials on stuff that I’ve never actually appl
 I fell into these deadly traps over and over again and they killed my side hustles. With this blog, I hope to break the cycle. Here’s how I’m tackling the three traps above.
 
 ### 1. The project scope
-When Tim Ferriss started his podcast he did it as an experiment. He decided to only dedicate his time to doing six podcast episodes and then after that, he would decide if he would continue doing it or not. With this blog I’m going to something similar, if I hate doing it and I believe it isn’t going anywhere, I’m going to stop writing for this blog after three months of writing one blog post per week. After reading the <a href="https://amzn.to/3aDCJwD" target="_blank">12-week year</a> I now define my goals at the beginning of every quarter. My goal for this quarter was to just get this blog started. I defined my goal for this quarter like this:
+When Tim Ferriss started his podcast he did it as an experiment. He decided to only dedicate his time to doing six podcast episodes and then after that, he would decide if he would continue doing it or not. With this blog I’m going to something similar, if I hate doing it and I believe it isn’t going anywhere, I’m going to stop writing for this blog after three months of writing one blog post per week. If I really enjoy doing it I might write more but I do want to stick to a consistent schedule.
+
+After reading the <a href="https://amzn.to/3aDCJwD" target="_blank">12-week year</a> I now define my goals at the beginning of every quarter. My goal for this quarter was to just get this blog started. I defined my goal for this quarter like this:
 - Choose a domain name
 - Choose a Gatsy theme
 - Edit it a bit to fit what I want
@@ -65,7 +67,7 @@ When Tim Ferriss started his podcast he did it as an experiment. He decided to o
 - Push it live
 - Write one blog post 
   
-Next quarter my goal is to write one blog post a week (13 posts in total) that is at least 250 words. I’m keeping it simple so that I don’t get overwhelmed and I start making forward progress with this blog. I also learned about consistency over intensity recently. I would rather have a blog that has a decent amount of content on it then no blog at all. If I were to set my goal to have 100 10,000 word blog posts by the end of the year I would get overwhelmed and go play video games instead.
+Next quarter my goal is to write one blog post a week (13 posts in total) that is at least 500 words. I’m keeping it simple so that I don’t get overwhelmed and I start making forward progress with this blog. I also learned about consistency over intensity recently. I would rather have a blog that has a decent amount of content on it then no blog at all. If I were to set my goal to have 100 10,000 word blog posts by the end of the year I would get overwhelmed and go play video games instead.
 
 My blog is mostly going to be about what I’ve learned the past decade and what tools past Richie could have used to achieve his goals. I hope that it helps you as well dear reader.
 
