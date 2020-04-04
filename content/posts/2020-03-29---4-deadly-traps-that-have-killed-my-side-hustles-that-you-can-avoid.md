@@ -6,7 +6,7 @@ draft: false
 slug: "4-deadly-traps-that-have-killed-my-side-hustles-that-you-can-avoid"
 category: "Productivity"
 tags:
-  - "side hustles"
+  - "Side Hustles"
   - "Web Development"
 description: "In this post I'll describe the 4 deadly traps that have killed my side hustles."
 socialImage: ""
