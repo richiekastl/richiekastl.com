@@ -1,6 +1,6 @@
 ---
 title: What To Do When You're On The Path of Failure
-date: "2020-05-06"
+date: "2020-5-06"
 template: "post"
 draft: false
 slug: "what-to-do-when-youre-on-the-path-of-failure"
