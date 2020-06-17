@@ -139,5 +139,3 @@ Here's a screenshot of my calendar:
 ![My June 2020 Calendar](/media/calendar-quarter-2-2020.png)
 
 Thank you very much for making it to the end of this blog post. I hope that I didn't bore you to death by talking about my personal goals and that this post has taught you how to break down your goals, determine how much free time you have, and how to prioritize your goals if you set the bar a little too high.
-
-[1]: 
