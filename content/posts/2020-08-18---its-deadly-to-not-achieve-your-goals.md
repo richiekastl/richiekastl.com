@@ -9,7 +9,7 @@ tags:
   - "Life"
   - "Productivity"
   - "Goals"
-description: "I committed to writing a blog post everyday this week. I was about to go to bed but then I forced myself to write this instead."
+description: "It can literally kill you to not achieve your goals. Here's why."
 socialImage: ""
 ---
 
