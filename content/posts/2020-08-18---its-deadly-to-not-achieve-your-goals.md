@@ -2,7 +2,7 @@
 title: It's deadly to not achieve your goals
 date: "2020-8-18"
 template: "post"
-draft: false
+draft: true
 slug: "its-deadly-to-not-achieve-your-goals"
 category: "Goals"
 tags:

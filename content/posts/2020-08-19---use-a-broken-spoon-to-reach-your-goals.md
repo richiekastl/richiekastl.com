@@ -2,7 +2,7 @@
 title: Use A Broken Spoon To Reach Your Goals
 date: "2020-8-19"
 template: "post"
-draft: false
+draft: true
 slug: "use-a-broken-spoon-to-reach-your-goals"
 category: "Goals"
 tags:

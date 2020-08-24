@@ -2,7 +2,7 @@
 title: Failure isn't always bad
 date: "2020-8-17"
 template: "post"
-draft: false
+draft: true
 slug: "failure-isnt-always-bad"
 category: "Goals"
 tags:
