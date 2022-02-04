@@ -3,7 +3,7 @@ title: Waking Up Early
 date: "2022-2-3"
 template: "post"
 draft: false
-slug: "reviving-the-blogging-habit"
+slug: "getting-up-early"
 category: "Goals"
 tags:
   - "Life"
