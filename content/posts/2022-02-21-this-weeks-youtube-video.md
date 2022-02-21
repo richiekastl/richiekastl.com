@@ -3,7 +3,7 @@ title: Do You Need to Know SEO to Get a Job as a Frontend Web Developer
 date: "2022-2-22"
 template: "post"
 draft: false
-slug: "02/21/2022/this-weeks-youtube-video"
+slug: "02/21/2022/do-you-need-to-know-seo-to-get-a-job-as-a-frontend-web-developer"
 category: "Life"
 tags:
   - "Life"
@@ -34,3 +34,5 @@ If you know both SEO and Frontend Development, you will stand out from the crowd
 Resources to learn SEO would be, [Digital Marketer's SEO Certification course](https://www.digitalmarketer.com/lp/search-marketing-mastery/)(paid), [learningseo.io](https://learningseo.io/)(free), and [Moz's SEO Learning Center](https://moz.com/learn/seo)(free).
 
 If you want to end up at a company such as Facebook or Twitter, then there really isn't a need to learn SEO, there you will need to know Frontend Web Development quickly.
+
+To see this video when it drops, [subscribe to my channel](https://www.youtube.com/channel/UC5TxD9smqJn-hrhvsrfTecQ). 
