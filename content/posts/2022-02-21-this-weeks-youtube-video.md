@@ -1,6 +1,6 @@
 ---
 title: Do You Need to Know SEO to Get a Job as a Frontend Web Developer
-date: "2022-2-22"
+date: "2022-2-21"
 template: "post"
 draft: false
 slug: "02/21/2022/do-you-need-to-know-seo-to-get-a-job-as-a-frontend-web-developer"
