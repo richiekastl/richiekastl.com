@@ -1,6 +1,6 @@
 ---
 title: Waking Up Early
-date: "2022-2-3"
+date: "2022-2-03"
 template: "post"
 draft: false
 slug: "getting-up-early"

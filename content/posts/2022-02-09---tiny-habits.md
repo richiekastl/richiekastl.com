@@ -1,6 +1,6 @@
 ---
 title: Tiny Habits
-date: "2022-2-9"
+date: "2022-2-09"
 template: "post"
 draft: false
 slug: "tiny-habits"

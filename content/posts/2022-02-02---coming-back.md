@@ -1,6 +1,6 @@
 ---
 title: Reviving the Blogging Habit and My New YouTube Channel
-date: "2022-2-2"
+date: "2022-2-02"
 template: "post"
 draft: false
 slug: "reviving-the-blogging-habit"

@@ -1,6 +1,6 @@
 ---
 title: How to Plan Your Goals
-date: "2022-2-4"
+date: "2022-2-04"
 template: "post"
 draft: false
 slug: "how-to-plan-your-goals"

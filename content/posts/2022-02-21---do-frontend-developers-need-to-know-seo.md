@@ -1,9 +1,9 @@
 ---
-title: Do You Need to Know SEO to Get a Job as a Frontend Web Developer
+title: Do You Need to Know SEO to Get a Job as a Frontend Web Developer?
 date: "2022-2-21"
 template: "post"
 draft: false
-slug: "02/21/2022/do-you-need-to-know-seo-to-get-a-job-as-a-frontend-web-developer"
+slug: "do-you-need-to-know-seo-to-get-a-job-as-a-frontend-web-developer"
 category: "Life"
 tags:
   - "Life"
@@ -11,6 +11,7 @@ tags:
   - "Goals"
 description: "This week's YouTube video will be about whether or not you need to know SEO to get a job as a Frontend Web Developer."
 socialImage: ""
+published: true
 ---
 
 This week, I'm going to post a video on whether or not Frontend Web Developers should know SEO. 
