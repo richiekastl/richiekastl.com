@@ -1,9 +1,0 @@
-[build]
-  publish = "public"
-  command = "yarn build"
-[build.environment]
-  YARN_VERSION = "1.22.19"
-  YARN_FLAGS = "--no-ignore-optional"
-[context.production.environment]
-  NODE_VERSION = "14.0"
-  PYTHON_VERSION = "3.8"
