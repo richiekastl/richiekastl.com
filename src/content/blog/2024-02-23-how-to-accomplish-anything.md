@@ -1,6 +1,6 @@
 ---
 author: Richard Kastl
-pubDatetime: 2024-02-02T00:00:00Z
+pubDatetime: 2024-02-23T07:20:00Z
 title: My Amazingly Simple Framework For How To Accomplish Anything
 slug: my-amazingly-simple-framework-for-how-to-accomplish-anything
 featured: false
