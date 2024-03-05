@@ -1,6 +1,6 @@
 ---
 author: Richard Kastl
-pubDatetime: 2024-03-01T07:30:00Z
+pubDatetime: 2024-03-04T07:30:00Z
 title: How To Stop Scrolling On Your Phone In Bed In The Mornings
 slug: how-to-stop-scrolling-on-your-phone-in-bed-in-the-mornings
 featured: false
