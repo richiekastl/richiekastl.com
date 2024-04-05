@@ -1,7 +1,7 @@
 ---
 author: Richard Kastl
-pubDatetime: 2024-04-04T05:53:00Z
-title: My Son Was Born
+pubDatetime: 2024-04-004T11:26:00Z
+title: Do the boring things
 slug: my-son-was-born
 featured: false
 tags:
