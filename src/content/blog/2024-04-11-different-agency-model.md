@@ -1,6 +1,6 @@
 ---
 author: Richard Kastl
-pubDatetime: 2024-04-08T11:27:00Z
+pubDatetime: 2024-04-11T06:30:00Z
 title: A different agency model
 slug: a-different-agency-model
 featured: false
