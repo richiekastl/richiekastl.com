@@ -5,7 +5,7 @@ title: A different agency model
 slug: a-different-agency-model
 featured: false
 tags:
-  - development
+  - business
 description: Updating this site
 ---
 
