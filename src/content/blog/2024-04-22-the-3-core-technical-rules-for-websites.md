@@ -1,6 +1,6 @@
 ---
 author: Richard Kastl
-pubDatetime: 2024-04-17T07:36:00Z
+pubDatetime: 2024-04-22T06:32:00Z
 title: The 3 Core Technical Rules for Websites
 slug: the-3-core-technical-rules-for-websites
 featured: false
