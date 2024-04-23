@@ -6,6 +6,7 @@ slug: how-to-use-a-principal-of-hypnosis-to-get-more-sales-on-your-website
 featured: false
 tags:
   - website
+  - hypnosis
 description: Updating this site
 ---
 
