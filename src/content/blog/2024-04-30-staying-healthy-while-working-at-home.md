@@ -25,3 +25,8 @@ Getting sunlight is also important, not only for your <a href="https://www.perpl
 
 Being in the sun helps prevent heart disease, <a href="https://pubmed.ncbi.nlm.nih.gov/26766556/" target="_blank">aside from Vitamin D</a>. 
 
+Also lifting will help prevent heart disease and help fight off the other <a href="https://www.perplexity.ai/search/find-an-article-o8Y0cfzNRUerXomxYWW3qQ" target="_blank">3 horseman of death</a>, but it is pretty hard to make it out the gym and gym equipment takes up alot of space. 
+
+I use the <a href="https://www.jaquishbiomedical.com/products/x3-bar/" target="_blank">X3 system to build muscle</a>. 
+
+It takes up very little space and I get a great workout whenever I can fit it in. 
