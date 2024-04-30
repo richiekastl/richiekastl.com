@@ -5,7 +5,7 @@ title: Treadmill Desk
 slug: treammill-desk
 featured: false
 tags:
-  - success
+  - health
 description: Updating this site
 ---
 
