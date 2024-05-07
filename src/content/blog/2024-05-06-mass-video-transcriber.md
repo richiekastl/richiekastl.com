@@ -1,6 +1,6 @@
 ---
 author: Richard Kastl
-pubDatetime: 2024-05-05T06:18:00Z
+pubDatetime: 2024-05-06T06:18:00Z
 title: Mass Video Transcriber
 slug: mass-video-transcriber
 featured: false
