@@ -1,6 +1,6 @@
 ---
 author: Richard Kastl
-pubDatetime: 2024-05-22T10:02:00Z
+pubDatetime: 2024-06-03T08:30:00Z
 title: 401ks Are Bullshit
 slug: 401ks-are-bullshit
 featured: false
