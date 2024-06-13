@@ -1,8 +1,8 @@
 ---
 author: Richard Kastl
-pubDatetime: 2024-06-03T08:30:00Z
-title: The 5 Second Test
-slug: the-5-second-test
+pubDatetime: 2024-06-12T08:30:00Z
+title: The Rise of the Everything Developers
+slug: the-rise-of-the-everything-developers
 featured: false
 tags:
   - Web Design
