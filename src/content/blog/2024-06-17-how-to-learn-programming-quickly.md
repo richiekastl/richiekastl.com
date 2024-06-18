@@ -1,7 +1,7 @@
 ---
 author: Richard Kastl
 pubDatetime: 2024-06-17T08:30:00Z
-title: How To Learn Progrmming Quickly
+title: How To Learn Programming Quickly
 slug: how-to-learn-programming-quickly
 featured: false
 tags:
@@ -25,4 +25,4 @@ Find the source code of a type of program you would like to work on, then copy i
 
 If you catch yourself zoning out, go back to the part where you started zoning out and go back to copying. 
 
-Tutorial sites such as <a href="codecademy.com">codecademy.com</a> are great for learning the basics and syntax of code and copying real-world programs will teach you how to structure code.
+Tutorial sites such as <a href="https://codecademy.com" target="_blank">codecademy.com</a> are great for learning the basics and syntax of code and copying real-world programs will teach you how to structure code.
