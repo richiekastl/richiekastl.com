@@ -1,6 +1,6 @@
 ---
 author: Richard Kastl
-pubDatetime: 2024-06-17T08:30:00Z
+pubDatetime: 2024-07-08T08:30:00Z
 title: Monotonous Tasks
 slug: monotonous-tasks
 featured: false
