@@ -17,9 +17,3 @@ The people who create the meta study pick and choose the studies that they inclu
 
 They are not going to include the studies that disprove their hypothesis. 
 
-It's the same thing with astrology. 
-
-The people who create astrology pick and choose the "evidence" that they include.
-
-They are not going to include the evidence that disproves their hypothesis.
-
