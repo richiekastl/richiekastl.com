@@ -9,7 +9,7 @@ tags:
 description: Updating this site
 ---
 
-Deep work is romantizied as a person sitting in a log cabin in the mountains working on their book using a typewriter. 
+Deep work is romanticized as a person sitting in a log cabin in the mountains working on their book using a typewriter. 
 
 You can smell the coffee and the hearth. 
 
