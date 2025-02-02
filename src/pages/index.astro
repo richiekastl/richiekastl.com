@@ -25,7 +25,7 @@ const cardPromises = sortedPosts.map(async (post) => {
     frontmatter: post.data,
     Content,
     title: post.data.title,
-    pubDatetime: post.data.pubDatetime,
+    pubDatetime: post.data.pubDatetime.toLocaleDateString("en-US", { year: 'numeric', month: 'long', day: 'numeric' }),
     modDatetime: post.data.modDatetime
   };
 });
@@ -36,35 +36,10 @@ const cards = await Promise.all(cardPromises);
 <Layout>
   <Header />
   <main id="main-content">
-    <section id="hero">
-      <p>
-        This is the personal blog of Richie Kastl. The point of this blog is
-        mostly for me to become a better writer and to clarify my thoughts. It's
-        to share what I learn as a developer, parent, husband, fitness dude,
-        business person, landlord, and cheerful demigod. If you learn something
-        from me then congrats, you get a medal.
-      </p>
-      <p>
-        Expect a new post from me every weekday. If I'm feeling frisky, I'll
-        also do one on the weekend.
-      </p>
-      {
-        // only display if at least one social link is enabled
-        socialCount > 0 && (
-          <div class="social-wrapper">
-            <div class="social-links">Social Links:</div>
-            <Socials />
-          </div>
-        )
-      }
-    </section>
-
-    <Hr />
 
     {
       cards.length > 0 && (
         <section id="recent-posts">
-          <h2>Recent Posts</h2>
           <ul>
             {cards.map(({ href, frontmatter, Content, title, pubDatetime, modDatetime }) => (
         <li class="my-6">
@@ -72,7 +47,7 @@ const cards = await Promise.all(cardPromises);
         href={href}
         class="inline-block text-lg font-medium text-skin-accent decoration-dashed underline-offset-4 focus-visible:no-underline focus-visible:underline-offset-0"
       >
-        <h2>{title}</h2>
+        <h2 class="font-serif mb-4">{title}</h2>
       </a>
       <Datetime pubDatetime={pubDatetime} modDatetime={modDatetime} />
       <article id="article" role="article" class="prose mx-auto mt-8 max-w-3xl">
@@ -89,17 +64,6 @@ const cards = await Promise.all(cardPromises);
         </section>
       )
     }
-
-    <div class="all-posts-btn-wrapper">
-      <LinkButton href="/posts/">
-        All Posts
-        <svg xmlns="http://www.w3.org/2000/svg"
-          ><path
-            d="m11.293 17.293 1.414 1.414L19.414 12l-6.707-6.707-1.414 1.414L15.586 11H6v2h9.586z"
-          ></path>
-        </svg>
-      </LinkButton>
-    </div>
   </main>
 
   <Footer />
