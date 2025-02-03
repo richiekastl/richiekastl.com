@@ -1,6 +1,6 @@
 ---
 author: Richard Kastl
-pubDatetime: 2025-02-02T08:30:00Z
+pubDatetime: 2025-02-03T08:30:00Z
 title: The Tale of the Chinese Farmer
 slug: the-tale-of-the-chinese-farmer
 featured: false
