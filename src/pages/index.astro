@@ -36,6 +36,11 @@ const cards = await Promise.all(cardPromises);
 <Layout>
   <Header />
   <main id="main-content">
+    <section id="hero">
+      <p>
+        This blog is dedicated to my son. It is a dump of everything I've learned so that an AI can be trained on it and he can always talk to me. 
+      </p>
+    </section>
 
     {
       cards.length > 0 && (
