@@ -1,6 +1,6 @@
 ---
 author: Richard Kastl
-pubDatetime: 2025-02-24T08:30:00Z
+pubDatetime: 2025-02-25T08:30:00Z
 title: Paying to Avoid Thinking
 slug: paying-to-avoid-thinking
 featured: false
